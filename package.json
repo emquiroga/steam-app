@@ -15,12 +15,19 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-native": "0.68.2",
+    "react-native-dotenv": "^3.3.1",
     "react-native-web": "0.17.7"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@types/react": "~17.0.21",
     "@types/react-native": "~0.66.13",
+    "js-yaml": "^4.1.0",
+    "jsesc": "^3.0.2",
+    "json5": "^2.2.1",
+    "metro": "^0.71.3",
+    "regjsparser": "^0.9.1",
+    "resolve": "^1.22.1",
     "typescript": "~4.3.5"
   },
   "private": true

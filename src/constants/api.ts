@@ -1,0 +1,1 @@
+export const API_URL = `${process.env['API_URL']}/${process.env['OWNED_GAMES_ENDPOINT']}/${process.env["API_VERSION"]}/?key=${process.env["API_KEY"]}&steamid=76561197960434622`
